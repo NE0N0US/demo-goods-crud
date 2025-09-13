@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+		"manufacturer": "Любятово ООО",
+		"name": "Печенье Топлёное молоко",
+		"weight": "16 * 444 г",
+		"expiration": "03.04.2026",
+		"price": "156,90 ₽"
+	},
+	{
+		"id": 2,
+		"manufacturer": "Apple Inc.",
+		"name": "Смартфон iPhone 17 512 ГБ чёрный",
+		"weight": "177 г",
+		"expiration": "",
+		"price": "125 999 ₽"
+	},
+	{
+		"id": 3,
+		"manufacturer": "Audi AG",
+		"name": "Автомобиль A6 45 TFSI quattro S tronic",
+		"weight": "1770 кг",
+		"expiration": "",
+		"price": "9 990 000 ₽"
+	},
+	{
+		"id": 4,
+		"manufacturer": "ЙКФ ОАО",
+		"name": "Конфеты Птичье Молоко по ГОСТ",
+		"weight": "200 г",
+		"expiration": "12.12.2025",
+		"price": "204 ₽"
+	},
+	{
+		"id": 5,
+		"manufacturer": "КД ООО",
+		"name": "Кухня Лотта Нова, пог. м",
+		"weight": "",
+		"expiration": "",
+		"price": "58 454 ₽"
+	},
+	{
+		"id": 6,
+		"manufacturer": "ЁЖ ООО",
+		"name": "Хрустики яблочные без сахара со стевией",
+		"weight": "60 г",
+		"expiration": "13.09.2026",
+		"price": "138 ₽"
+	},
+	{
+		"id": 7,
+		"manufacturer": "Кофе плюс ООО",
+		"name": "MakBush Подарочный набор кофе в зёрнах (4 сорта)",
+		"weight": "1 кг",
+		"expiration": "",
+		"price": "2 560 ₽"
+	},
+	{
+		"id": 8,
+		"manufacturer": "ЛЕБЕР ООО",
+		"name": "Ворота для мини футбола с кольцом",
+		"weight": "160 кг",
+		"expiration": "",
+		"price": "131 400 ₽"
+	},
+	{
+		"id": 9,
+		"manufacturer": "МЕЙТАН ООО",
+		"name": "Моделирующая тушь для ресниц",
+		"weight": "",
+		"expiration": "",
+		"price": "1 159 ₽"
+	},
+	{
+		"id": 10,
+		"manufacturer": "НЬЮТЕК ООО",
+		"name": "3D сканер Calibry",
+		"weight": "900 г",
+		"expiration": "",
+		"price": "575 000 ₽"
+	}
+]
